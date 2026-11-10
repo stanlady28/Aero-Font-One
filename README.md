@@ -178,4 +178,4 @@ This repository serves as the official landing page for Aero Font One. The softw
 **Get the most recent version of Aero Font One today!**
 
 ---
-**Last updated:** 2026-11-10 11:59:39 UTC
+**Last updated:** 2026-11-10 19:31:43 UTC
